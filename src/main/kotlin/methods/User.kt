@@ -1,11 +1,11 @@
-package oop
+package methods
 
 import dataTypes.Home
 
 class User() : Computer() {
 
     var userName: String? = "Ulvi";
-    var userSurname: String? = "Nasirov";
+    var userSurname: String? = "Nasir";
 
 }
 

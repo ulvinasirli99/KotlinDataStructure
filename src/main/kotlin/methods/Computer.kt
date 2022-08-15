@@ -1,4 +1,4 @@
-package oop
+package methods
 
 open class Computer {
     var color: String? = null;
